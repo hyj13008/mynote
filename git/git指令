@@ -1,0 +1,20 @@
+git pull
+git clone
+git fetch 
+git diff
+
+git add
+git commit "name" ["message"]
+git push "name"
+
+git status
+git log
+
+git branch "name"       #创建分支
+git branch -d "name"    #有提醒删除
+git branch -D "name"    #直接删除
+
+git checkout "name"     #切换分转
+git checkout -d "name"  #创建并跳转
+
+git merge "name"        #当前分支与目标分支合并
